@@ -7,7 +7,6 @@ public class StringManipulation {
         Boolean s = s1.endsWith("A");
         System.out.println("Contains values = " + s);
 
-
     }
 
 }

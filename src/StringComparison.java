@@ -115,7 +115,6 @@ public class StringComparison {
         } catch (Exception e) {
             System.out.println(String.format("Error Occurred with %s.equals(%s) : %s",
                     firstString, secondString, e.getClass().getName()));
-
         }
     }
 }
